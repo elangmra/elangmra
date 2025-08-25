@@ -8,12 +8,10 @@
 
 Saya adalah seorang pengembang perangkat lunak yang bersemangat dengan pengalaman dalam pengembangan web dan mobile. Saya menikmati membangun solusi yang memecahkan masalah dunia nyata dan berkontribusi pada proyek open source.
 
-- 🔭 Saat ini saya sedang bekerja pada Absensi RFID
-- 🌱 Saya sedang mempelajari Go
 - 👯 Saya ingin berkolaborasi dalam proyek open source
 - 🏢 Bekerja di Institut Prima Bangsa dan CV Mandiri Asa Sejahtera
 - 📫 Hubungi saya di: elangmra@gmail.com
-- ⚡ Fakta menarik: Saya suka mengeksplorasi teknologi baru
+- ⚡ Fakta menarik: Saya suka mengeksplorasi banyak hal baru termasuk teknologi baru
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/elangmra?label=Followers&style=social" alt="GitHub Followers" />
