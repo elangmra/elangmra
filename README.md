@@ -38,15 +38,8 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat dengan pengalama
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elangmra
-&show_icons=true
-&count_private=true
-&include_all_commits=true
-&hide_border=true
-&title_color=2986CC
-&icon_color=2986CC
-&text_color=c9d1d9
-&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elangmra&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2986CC&icon_color=2986CC&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&_=1" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elangmra&theme=dark&hide_border=true&background=0d1117&stroke=2986CC&ring=2986CC&fire=2986CC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2986CC&sideLabels=2986CC&dates=c9d1d9" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangmra&layout=compact&hide_border=true&title_color=2986CC&text_color=c9d1d9&bg_color=0d1117" />
 </div>
