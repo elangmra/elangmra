@@ -9,7 +9,7 @@
 Saya adalah seorang pengembang perangkat lunak yang bersemangat dengan pengalaman dalam pengembangan web dan mobile. Saya menikmati membangun solusi yang memecahkan masalah dunia nyata dan berkontribusi pada proyek open source.
 
 - 👯 Saya ingin berkolaborasi dalam proyek open source
-- 🏢 Bekerja di Institut Prima Bangsa dan CV Mandiri Asa Sejahtera
+- 🏢 Bekerja di Institut Prima Bangsa dan seorang Freelancer.
 - 📫 Hubungi saya di: elangmra@gmail.com
 - ⚡ Fakta menarik: Saya suka mengeksplorasi banyak hal baru termasuk teknologi baru
 
