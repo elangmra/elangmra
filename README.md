@@ -28,32 +28,27 @@
 
 ## Tentang Saya
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Siapa Saya</h3>
-      <p>
-        Software Engineer asal Indonesia yang membangun produk
-        <b>web</b> dan <b>mobile</b>. Saya menikmati merancang solusi
-        yang benar-benar memecahkan masalah dunia nyata, dan senang
-        berkontribusi di proyek open source.
-      </p>
-      <p>
-        <i>"Selalu ada hal baru untuk dieksplorasi."</i>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Saat Ini</h3>
-      <table>
-        <tr><td>🏢</td><td><b>Institut Prima Bangsa</b><br /><sub>Software Engineer</sub></td></tr>
-        <tr><td>💼</td><td><b>Freelance Developer</b><br /><sub>Web &amp; Mobile Projects</sub></td></tr>
-        <tr><td>🌱</td><td><b>Sedang Belajar</b><br /><sub>Blockchain &amp; AI</sub></td></tr>
-        <tr><td>👯</td><td><b>Terbuka Untuk</b><br /><sub>Kolaborasi Open Source</sub></td></tr>
-        <tr><td>📫</td><td><b>Kontak</b><br /><sub>elangmra@gmail.com</sub></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+```console
+$ whoami
+Elang M Riefki — Software Engineer
+
+$ cat profile.txt
+Membangun produk web & mobile dari Indonesia.
+Senang merancang solusi yang benar-benar memecahkan
+masalah dunia nyata dan berkontribusi di open source.
+
+$ ./status --now
+[work]   Institut Prima Bangsa      · Software Engineer
+[side]   Freelance Developer        · Web & Mobile
+[learn]  Blockchain · AI
+[open]   Kolaborasi open source
+
+$ contact --email
+elangmra@gmail.com
+
+$ echo $MOTTO
+"Selalu ada hal baru untuk dieksplorasi."
+```
 
 ---
 
