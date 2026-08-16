@@ -28,27 +28,13 @@
 
 ## Tentang Saya
 
-```console
-$ whoami
-Elang M Riefki — Software Engineer
+Saya adalah seorang pengembang perangkat lunak yang bersemangat dengan pengalaman dalam pengembangan web dan mobile. Saya menikmati membangun solusi yang memecahkan masalah dunia nyata dan berkontribusi pada proyek open source.
 
-$ cat profile.txt
-Membangun produk web & mobile dari Indonesia.
-Senang merancang solusi yang benar-benar memecahkan
-masalah dunia nyata dan berkontribusi di open source.
-
-$ ./status --now
-[work]   Institut Prima Bangsa      · Software Engineer
-[side]   Freelance Developer        · Web & Mobile
-[learn]  Blockchain · AI
-[open]   Kolaborasi open source
-
-$ contact --email
-elangmra@gmail.com
-
-$ echo $MOTTO
-"Selalu ada hal baru untuk dieksplorasi."
-```
+- 🏢 Bekerja di Institut Prima Bangsa dan seorang Freelancer
+- 🌱 Sedang mendalami Blockchain dan AI
+- 👯 Saya ingin berkolaborasi dalam proyek open source
+- 📫 Hubungi saya di: elangmra@gmail.com
+- ⚡ Fakta menarik: Saya suka mengeksplorasi banyak hal baru termasuk teknologi baru
 
 ---
 
