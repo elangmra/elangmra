@@ -1,3 +1,10 @@
+<!--
+  Catatan perawatan:
+  github-readme-stats.vercel.app  -> 503 (over-quota), jangan dipakai sampai pulih
+  github-profile-trophy.vercel.app -> 402 (kuota Vercel pemilik habis), pakai mirror github-trophies.vercel.app
+  Endpoint di bawah ini sudah diverifikasi HTTP 200.
+-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2986CC&height=200&section=header&text=Elang%20M%20Riefki&fontSize=52&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20Web%20Developer&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="header" />
 </div>
@@ -17,25 +24,36 @@
 
 </div>
 
-<br />
+---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=elangmra&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2986CC&icon_color=2986CC&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="GitHub Stats" />
+## Tentang Saya
 
-### `~` Tentang Saya
-
-Pengembang perangkat lunak yang bersemangat di ranah **web** dan **mobile**. Saya menikmati membangun solusi yang memecahkan masalah dunia nyata dan berkontribusi pada proyek open source.
-
-```yaml
-lokasi:    Indonesia 🇮🇩
-peran:     Software Engineer @ Institut Prima Bangsa
-           Freelance Developer
-fokus:     Web Development · Blockchain · AI
-kolaborasi: Open Source Projects
-email:     elangmra@gmail.com
-motto:     "Selalu mengeksplorasi hal baru."
-```
-
-<br clear="right" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Siapa Saya</h3>
+      <p>
+        Software Engineer asal Indonesia yang membangun produk
+        <b>web</b> dan <b>mobile</b>. Saya menikmati merancang solusi
+        yang benar-benar memecahkan masalah dunia nyata, dan senang
+        berkontribusi di proyek open source.
+      </p>
+      <p>
+        <i>"Selalu ada hal baru untuk dieksplorasi."</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Saat Ini</h3>
+      <table>
+        <tr><td>🏢</td><td><b>Institut Prima Bangsa</b><br /><sub>Software Engineer</sub></td></tr>
+        <tr><td>💼</td><td><b>Freelance Developer</b><br /><sub>Web &amp; Mobile Projects</sub></td></tr>
+        <tr><td>🌱</td><td><b>Sedang Belajar</b><br /><sub>Blockchain &amp; AI</sub></td></tr>
+        <tr><td>👯</td><td><b>Terbuka Untuk</b><br /><sub>Kolaborasi Open Source</sub></td></tr>
+        <tr><td>📫</td><td><b>Kontak</b><br /><sub>elangmra@gmail.com</sub></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,12 +92,16 @@ motto:     "Selalu mengeksplorasi hal baru."
 
 <div align="center">
 
-  <img height="170" src="https://streak-stats.demolab.com?user=elangmra&theme=dark&hide_border=true&background=0D1117&stroke=2986CC&ring=2986CC&fire=2986CC&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=2986CC&sideLabels=2986CC&dates=8B949E&border_radius=12" alt="Streak Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangmra&layout=compact&langs_count=8&hide_border=true&title_color=2986CC&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elangmra&theme=github_dark" width="88%" alt="Profile Summary" />
 
   <br /><br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=elangmra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
+  <img height="180" src="https://streak-stats.demolab.com?user=elangmra&theme=dark&hide_border=true&background=0D1117&stroke=2986CC&ring=2986CC&fire=2986CC&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=2986CC&sideLabels=2986CC&dates=8B949E&border_radius=12" alt="Streak Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elangmra&theme=github_dark" alt="Top Languages" />
+
+  <br /><br />
+
+  <img src="https://github-trophies.vercel.app/?username=elangmra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" alt="Trophies" />
 
 </div>
 
@@ -91,13 +113,15 @@ motto:     "Selalu mengeksplorasi hal baru."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elangmra&bg_color=0D1117&color=C9D1D9&line=2986CC&point=FFFFFF&area=true&area_color=2986CC&hide_border=true&radius=8" width="98%" alt="Activity Graph" />
 </div>
 
-<details align="center">
-  <summary><b>Ringkasan Kontribusi</b></summary>
+<details>
+  <summary><b>Lihat detail kontribusi</b></summary>
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elangmra&theme=github_dark" alt="Profile Details" width="80%" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elangmra&theme=github_dark&utcOffset=7" height="200" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elangmra&theme=github_dark" height="200" alt="Most Commit Language" />
+  <div align="center">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elangmra&theme=github_dark" alt="Most Commit Language" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elangmra&theme=github_dark&utcOffset=7" alt="Productive Time" />
+    <br /><br />
+    <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elangmra&theme=github_dark" alt="Stats" />
+  </div>
 </details>
 
 ---
